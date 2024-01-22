@@ -6,7 +6,7 @@ Table of Homotopy Groups of Spheres. Adding proofs.
 | ---- | ---- | ---- | ---- | ---- |
 | $\mathbb{S}^1$ |  |  |  |  |
 | $\mathbb{S}^2$ | [0](./Lemmas/n_sphere_is_simply_connected.md)  |  |  |  |
-| $\mathbb{S}^3$ | [0](Lemmas/n_sphere_is_simply_connected.md)  |  |  |  |
-| $\mathbb{S}^4$ | [0](Lemmas/n_sphere_is_simply_connected.md)  |  |  |  |
+| $\mathbb{S}^3$ | [0](./Lemmas/n_sphere_is_simply_connected.md)  |  |  |  |
+| $\mathbb{S}^4$ | [0](./Lemmas/n_sphere_is_simply_connected.md)  |  |  |  |
 | $\vdots$  |  |  |  |  |
 
