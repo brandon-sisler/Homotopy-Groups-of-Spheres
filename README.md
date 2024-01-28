@@ -1,11 +1,6 @@
 Table of Homotopy Groups of Spheres. Adding proofs.
 Note: Open README file before clicking links.
 
-<script
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-  type="text/javascript">
-</script>
-
 
 |  | $\pi_1(-)$ | $\pi_2(-)$ | $\pi_3(-)$ | $\cdots$ |
 | ---- | ---- | ---- | ---- | ---- |
